@@ -60,7 +60,7 @@
 	</div>
 	<div class="content">
 		<div class="khung box">
-			<a href="https://cau-truc-web.netlify.app/">
+			<a https://quoctruong.netlify.app/">
 				<img src="Trường.jpg" alt="Ảnh thành viên" width="500" height="700"></a>
  			<p>Cao Quốc Trường</p>
 		</div>
@@ -89,26 +89,26 @@
 			<p>Mai Thành Công</p>
 		</div>
 		<div class="khung box">
-			<a href="https://cau-truc-trang-web.netlify.app/">
+			<a https://lighthearted-peony-d29107.netlify.app/">
 				<img src="Định.jpg" alt="Ảnh thành viên"></a>
     			<p>Nguyễn Quốc Định</p>
 		</div>
 	</div>
 	<div class="content">
 		<div class="khung box">
-			<a href="https://cau-truc-trang-web.netlify.app/">
+			<a https://du-an-1-thu-ngan.netlify.app/">
 				<img src="Ngân.jpg" alt="Ảnh thành viên"></a>
     			<p>Phạm Thu Ngân</p>
 		</div>
 <div class="khung box">
-			<a href="https://cau-truc-trang-web.netlify.app/">
+			<a https://tranxuantran.netlify.app/">
 				<img src="Trận.jpg" alt="Ảnh thành viên"></a>
     			<p>Trần Xuân Trận</p>
   		</div>
 	</div>
 	<div class="content">
 		<div class="khung box">
-			<a href="https://cau-truc-trang-web.netlify.app/">
+			<a https://kyquan.netlify.app/">
 				<img src="Kỳ.jpg" alt="Ảnh thành viên"></a>
     			<p>Trương Quân Kỳ</p>
 		</div>
@@ -118,15 +118,15 @@
 	<div class="content">
 		<div class="row">
 			<h3>Góc ảnh Tổ 4</h3>
-			<p><img src="Hoa hồng.jpg" alt="05/09" width="356" height="267"></p>
+			<p><img src="to4.jpg" alt="05/09" width="356" height="267"></p>
 		</div>
 		<div class="row">
 			<h3>Video</h3>
-			<p><video src="NGVN.mp4" controls width="356" height="267"></p>
+			<p><video src="video.mp4" controls width="356" height="267"></p>
 		</div>
 		<div class="row">
-			<h3>Góc ảnh Tổ 4</h3>
-			<p><img src="Hoa hồng.jpg" alt="05/09" width="356" height="267"></p>
+			<h3>Lớp 12a5</h3>
+			<p><img src="lop12a5.jpg" alt="05/09" width="356" height="267"></p>
 		</div>
 	</div>
     <div class="footer">
